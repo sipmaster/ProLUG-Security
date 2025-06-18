@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PSC Unit 9 Lab - Certificate and Key Madness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "PSC Unit 9 Lab - Certificate and Key Madness"
             }
           }
         ]
@@ -180,7 +180,9 @@
   },
   "active": "3409ad0b550fb5fd",
   "lastOpenFiles": [
+    "ProLUG Linux Security Engineering Course.md",
     "README.md",
+    "LAC Unit 2.md",
     "PSC Unit 1 Lab - Build Standards and Compliance.md",
     "PSC Unit 8 Lab - Configuration Drift and Remediation.md",
     "PSC Unit 9 Lab - Certificate and Key Madness.md",
@@ -192,7 +194,6 @@
     "PSC Unit 3 Lab - User Access and System Integration.md",
     "PSC Unit 2 Lab - Securing the Network Connection.md",
     "ProLUG Linux System Administration.md",
-    "ProLUG Linux Security Engineering Course.md",
     "Pasted image 20250616232654.png",
     "Pasted image 20250616222553.png",
     "Pasted image 20250616222414.png",
@@ -200,7 +201,6 @@
     "Pasted image 20250616181643.png",
     "Pasted image 20250616175552.png",
     "Pasted image 20250614163847.png",
-    "Pasted image 20250614131053.png",
-    "LAC Unit 2.md"
+    "Pasted image 20250614131053.png"
   ]
 }
